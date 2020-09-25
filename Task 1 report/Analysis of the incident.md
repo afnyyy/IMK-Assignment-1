@@ -15,3 +15,4 @@ Seluruh Comet yang tersisa dihancurkan atau dimodifikasi dengan jendela dari sem
 
 ### Create a UX mockup to improve the design
 ![Jendela Pesawat](https://user-images.githubusercontent.com/55974755/94262274-6cc34780-ff5d-11ea-8523-39ff97cf99b3.jpg)
+**Aplikasi : Inkscape**
