@@ -14,3 +14,4 @@ Tanda pertama dari kecacatan DH Comet datang pada 2 Mei 1953 ketika sebuah Comet
 Seluruh Comet yang tersisa dihancurkan atau dimodifikasi dengan jendela dari semula bujursangkar menjadi bentuk oval. Jendela berbentuk oval ini dapat mengurangi tekanan atau turbulensi ketika pesawat berada di atmosfer yang lebih rendah. Dengan demikian, tegangan mengalir lebih merata di sekitar tepi jendela dan program untuk memproduksi sebuah Comet 2 dengan mesin Rolls-Royce Avon yang lebih bertenaga ditunda. Beberapa Comet 2 dimodifikasi lagi untuk memperbaiki masalah fatig dan menjalani tugas dalam RAF sebagai Comet C.2. Pesawat Comet tidak melayani penerbangan komersial sampai 1958, ketika Comet 4 yang lebih canggih diperkenalkan.
 
 ### Create a UX mockup to improve the design
+![Jendela Pesawat](https://user-images.githubusercontent.com/55974755/94262274-6cc34780-ff5d-11ea-8523-39ff97cf99b3.jpg)
